@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Prakhgooner.aternos.me",
+    "ip": "Prakhgooner.aternos.me:30031",
     "port": 30031,
     "version": "1.21.11",
     "try-creative": false
