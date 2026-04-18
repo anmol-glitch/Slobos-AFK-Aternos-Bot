@@ -8,7 +8,7 @@
   "server": {
     "ip": "Prakhgooner.aternos.me",
     "port": 30031,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1494923695775416422/YOSgAmxdJemUHYFkObSlmQAaf8mE4qVDEuwS2mdZTYHPMlMHvp2aiZe9cGCC4gPp6-24",
     "events": {
       "connect": true,
       "disconnect": true,
